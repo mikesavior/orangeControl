@@ -14,3 +14,7 @@ play with the code. it's free.
 DO YOU LIKE ORANGECONTROL OR DID YOU LEARN FROM IT?
 --
 cool. share it with someone. 
+
+DO I CARE ABOUT THIS?
+--
+eh, have fun. I spent 7 commits editing markdown. on a standalone js constructor I made between counter strike matches. do you think this is serious? 
