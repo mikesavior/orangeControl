@@ -1,5 +1,5 @@
 function addTwo(a, b, string) {
-        return { result: (a + b), food: ('' + string) };
+	return { result: (a + b), food: ('' + string) };
 }
 
 function newThing (startedWith, result, food) {
